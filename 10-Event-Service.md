@@ -41,9 +41,9 @@ export interface MicroEvent {
 8. Implement `findAll` using the `zip` function and the `map` operator.
 
 - https://rxjs.dev/api/index/function/zip
-- https://www.learnrxjs.io/operators/combination/zip.html
+- https://www.learnrxjs.io/learn-rxjs/operators/combination/zip
 - https://rxjs.dev/api/operators/map
-- https://www.learnrxjs.io/operators/transformation/map.html
+- https://www.learnrxjs.io/learn-rxjs/operators/transformation/map
 
 9. Use the `MicroEventService` instead of `EventResource` in the `EventCollectionComponent`.
 10. Pay attention: We're dealing with `MicroEvent` instances now.
