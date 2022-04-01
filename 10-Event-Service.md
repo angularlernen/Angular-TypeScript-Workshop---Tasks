@@ -17,7 +17,7 @@ There is a small challange here: Sometimes _Entity_ types are build out of multi
 
 1. Create a folder _domain_ in the _shared_ folder.
 2. Create an entity _Profile_ given as interface: `ng g i shared/domain/profile`. 
-In this case, _Profile_ is almost the same as _ProfileResource_ - this is coincidence.
+In this case, _Profile_ is almost the same as _ProfileResponse_ - this is coincidence.
 3. Create an entity _MicroEvent_ given as interface: `ng g i shared/domain/micro-event`.
 
 ```ts
